@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gadgets.twilightparadox.com/sitemap.xml
+Sitemap: https://gadgets.twilightparadox.com/sitemap.html
